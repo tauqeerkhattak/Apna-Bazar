@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468708480802",
+    "project_id": "apna-bazaar-ed0a0",
+    "storage_bucket": "apna-bazaar-ed0a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468708480802:android:6f354347312497e7aa377b",
+        "android_client_info": {
+          "package_name": "com.example.apnabazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468708480802-m1tv2l0shcai1lkg626jlq0skv8d0vsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8vkzAHIqjYsJ0txwdBzQEqfgN9d3Ero4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468708480802-m1tv2l0shcai1lkg626jlq0skv8d0vsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
